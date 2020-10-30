@@ -1,5 +1,5 @@
 {
-    "name": "Docker Image Build CI",
-    "description": "Docker Image Build CI",
+    "name": "Docker Image Build Scan",
+    "description": "Workflow to build and scan a docker image",
     "iconName": "docker-image-build-scan"
 }
