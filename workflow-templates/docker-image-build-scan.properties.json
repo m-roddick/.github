@@ -1,5 +1,5 @@
 {
     "name": "Docker Image Build CI",
     "description": "Docker Image Build CI",
-    "iconName": "docker-image-build-ci"
+    "iconName": "docker-image-build-scan"
 }
